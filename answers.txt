@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: One possibility is to sync versions of files where people can access them. Like how I was able to sync the contents of this folder to my computer then send it back out to be viewed by others.
+
